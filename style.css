@@ -1,0 +1,8 @@
+body{
+    background-color: lightslategrey; color: white;
+    text-align: center;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
